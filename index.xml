@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
+ <title> Todos las categorias 2018 </title>
+ 
+ 
 <item>
 	<title>Amateu</title>
 		<thumbnail>http://images.excaliburfilms.com/DVD/reviews/imagesBB020609/dvd_812805D8.jpg</thumbnail>
@@ -7,6 +10,7 @@
 	<link>http://ignoreme</link>
 				<externallink>https://raw.githubusercontent.com/greenmansytem/XXX/master/test1.xml</externallink>
 </item>
+ 
  
  
 <item>
@@ -35,11 +39,11 @@
 	</item>>
 	
 <item> 
-	<title>Parodia</title>
-		<thumbnail>https://d1e9dm5cargh2w.cloudfront.net/images/ivd_large_front_image/223987.jpg</thumbnail>
-			<fanart>https://d1e9dm5cargh2w.cloudfront.net/images/ivd_large_front_image/223987.jpg</fanart>
+	<title> </title>
+		<thumbnail> </thumbnail>
+			<fanart> </fanart>
 		<link>http://ignoreme</link>
-				<externallink>https://raw.githubusercontent.com/greenmansytem/XXX/master/parodia.xml</externallink>
+				<externallink> </externallink>
 	</item>
 	
 <item> 
