@@ -19,16 +19,16 @@
  
 <item> 
 	<title>Negras</title>
-			<thumbnail>https://github.com/greenmansytem/XXX/blob/master/Parodia.jpg</thumbnail>
-			<fanart>https://github.com/greenmansytem/XXX/blob/master/Parodia.jpg</fanart>
+			<thumbnail>https://images.excaliburfilms.com/DVD/reviews/imagesBB020609/dvd_3010002D4.jpg</thumbnail>
+			<fanart>https://images.excaliburfilms.com/DVD/reviews/imagesBB020609/dvd_3010002D4.jpg</fanart>
 		<link> http://ignoreme</link>
 				<externallink>https://raw.githubusercontent.com/greenmansytem/XXX/master/negras.xml </externallink>
 	</item>
 	
 <item> 
 	<title>parodia</title>
-		<thumbnail> https://c8.cduniverse.ws/resized/380x570/ice/606/8930606.jpg</thumbnail>
-			<fanart>https://c8.cduniverse.ws/resized/380x570/ice/606/8930606.jpg</fanart>
+		<thumbnail> https://raw.githubusercontent.com/greenmansytem/XXX/master/Parodia.jpg</thumbnail>
+			<fanart>https://raw.githubusercontent.com/greenmansytem/XXX/master/Parodia.jpg</fanart>
 		<link>http://ignoreme</link>
 				<externallink>https://raw.githubusercontent.com/greenmansytem/XXX/master/parodia.xml </externallink>
 	</item>
