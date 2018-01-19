@@ -3,8 +3,7 @@
 <item> 
 
 
-			<texto> greenman system  </texto>
-
+			<title> <texto> greenman system  </texto> </title>
 			<link> http://ignoreme</link>
 			<externallink>https://raw.githubusercontent.com/greenmansytem/XXX/master/inf.xml</externallink>
 			</item>
