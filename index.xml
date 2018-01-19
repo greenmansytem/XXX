@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- 
 
+<item> 
+
+
+<texto> 
+		<mensaje> 
+		 greenman system 
+					</mensaje>
+			</texto>
+
+			<link> http://ignoreme</link>
+			<externallink>https://raw.githubusercontent.com/greenmansytem/XXX/master/inf.xml</externallink>
+			</item>
+ 
+ 
+ 
 <item>
 	<title>Amateu</title>
 		<thumbnail>http://images.excaliburfilms.com/DVD/reviews/imagesBB020609/dvd_812805D8.jpg</thumbnail>
