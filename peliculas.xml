@@ -1,3 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<item>
+	<title> [B] [COLOR yellow]  LOS MEJORES DVD PORNO [/B] [/COLOR </title>
+		<thumbnail> </thumbnail> <fanart> </fanart>
+		<link>http://ignore.me</link>
+				<externallink> </externallink>
+	</item>
+
+<item>
+
 <title>LOS MEJORES DVD PORNO </title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -15,7 +27,7 @@
 <regex>
 <name>getUrl</name>
 <expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<page>http://diskokosmiko.mx/xXx/anal-acrobats-ultimate-pack-18-2532</page>
 <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/[makelist.param2]</referer>
 <connection>keep-alive</connection>
@@ -34,4 +46,3 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<item>
