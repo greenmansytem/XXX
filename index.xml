@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
-<div> 
-     <label for="name">Name:</label>
-		<input type="text" id="name" />
-				</div>
+<texto> 
+		<mensaje> 
+		 greenman system 
+					</mensaje>
+			</texto>
+
+
 <item>
 	<title>Amateu</title>
 		<thumbnail>http://images.excaliburfilms.com/DVD/reviews/imagesBB020609/dvd_812805D8.jpg</thumbnail>
