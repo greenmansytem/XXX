@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item> 
+      <items_info>
 
-
-			<title>  Todas las Categorias  </title>
+			<title>Todas las Categorias  </title>
 			<link> http://ignoreme</link>
-			<externallink>https://raw.githubusercontent.com/greenmansytem/XXX/master/peliculas.xml</externallink>
-			</item>
- 
+			<externallink>https://raw.githubusercontent.com/greenmansytem/XXX/master/inf.xml</externallink>
+			<credits>Greenman System</credits>
+			<date>01.01.2018</date>
+			</items_info>
+ </item>
  
  
 <item>
@@ -51,9 +53,10 @@
 			<fanart>https://d1e9dm5cargh2w.cloudfront.net/images/ivd_large_front_image/223987.jpg</fanart>
 		<link>http://ignoreme</link>
 				<externallink>https://raw.githubusercontent.com/greenmansytem/XXX/master/parodia.xml </externallink>
-	</item>
+	</item
 	
-<item> 
+	
+<item>
 	<title> </title>
 		<thumbnail> </thumbnail>
 			<fanart> </fanart>
